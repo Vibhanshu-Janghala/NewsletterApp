@@ -1,5 +1,6 @@
 # Newsletter App
  Completed Newsletter App including frontend build files
+ Frontend repository can be found [Here](https://github.com/Vibhanshu-Janghala/Newsletter-Frontend)
 
 ## Setup
 
